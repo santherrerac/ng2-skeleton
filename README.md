@@ -4,7 +4,7 @@ The basic setup for an [Angular 2](https://angular.io/) application, using the [
 
 ## Installation
 
-    git clone git@github.com:santherrerac/ng2-skeleton.git
+    git clone https://github.com/santherrerac/ng2-skeleton.git
     cd ng2-skeleton
     npm install
     jspm install 
