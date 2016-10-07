@@ -1,0 +1,48 @@
+{
+  "name": "ng2-skeleton",
+  "version": "1.0.0",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.0-beta.12",
+    "systemjs": "0.19.39",
+    "zone.js": "^0.6.25"
+  },
+  "devDependencies": {
+    "jspm": "^0.16.46"
+  },
+  "jspm": {
+    "dependencies": {
+      "@angular/common": "npm:@angular/common@^2.0.2",
+      "@angular/compiler": "npm:@angular/compiler@^2.0.2",
+      "@angular/core": "npm:@angular/core@^2.0.2",
+      "@angular/forms": "npm:@angular/forms@^2.0.2",
+      "@angular/http": "npm:@angular/http@^2.0.2",
+      "@angular/platform-browser": "npm:@angular/platform-browser@^2.0.2",
+      "@angular/platform-browser-dynamic": "npm:@angular/platform-browser-dynamic@^2.0.2",
+      "@angular/router": "npm:@angular/router@^3.0.2",
+      "@angular/upgrade": "npm:@angular/upgrade@^2.0.2"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "description": "Angular 2 + jspm skeleton",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santherrerac/ng2-skeleton.git"
+  },
+  "keywords": [
+    "angular",
+    "jspm",
+    "skeleton"
+  ],
+  "author": "Santiago Herrera Cardona",
+  "bugs": {
+    "url": "https://github.com/santherrerac/ng2-skeleton/issues"
+  },
+  "homepage": "https://github.com/santherrerac/ng2-skeleton#readme"
+}
