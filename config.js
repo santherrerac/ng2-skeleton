@@ -1,5 +1,5 @@
 System.config({
-  baseURL: "/ng2_skeleton",
+  baseURL: "/ng2-skeleton",
   defaultJSExtensions: true,
   transpiler: "typescript",
   paths: {
