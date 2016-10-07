@@ -1,6 +1,6 @@
 # Angular 2 skeleton
 
-The basic setup for an [Angular 2](https://angular.io/) application using the [jspm](http://jspm.io/).  
+The basic setup for an [Angular 2](https://angular.io/) application using the [jspm](http://jspm.io/) package manager.  
 
 ## Installation
 
